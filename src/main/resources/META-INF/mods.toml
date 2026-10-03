@@ -1,0 +1,28 @@
+modLoader="javafml"
+loaderVersion="[52,)"
+license="MIT"
+
+[[mods]]
+modId="${mod_id}"
+version="${mod_version}"
+displayName="Skin Shift"
+description='''
+Зажми V — откроется колесо выбора скина из папки skinshift/skins в корне игры.
+Отпусти на нужном — руки поднимаются, вокруг игрока закручивается эффект частиц,
+и скин попиксельно меняется на выбранный. Видно другим игрокам. Цвет и стиль
+частиц настраиваются отдельной клавишей.
+'''
+
+[[dependencies.${mod_id}]]
+modId="forge"
+mandatory=true
+versionRange="[52,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.${mod_id}]]
+modId="minecraft"
+mandatory=true
+versionRange="[${minecraft_version},1.22)"
+ordering="NONE"
+side="BOTH"

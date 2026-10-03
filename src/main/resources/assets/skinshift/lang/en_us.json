@@ -1,0 +1,16 @@
+{
+  "key.categories.skinshift": "Skin Shift",
+  "key.skinshift.wheel": "Open skin wheel (hold)",
+  "key.skinshift.settings": "Open Skin Shift settings",
+
+  "gui.skinshift.wheel.title": "Skin wheel",
+  "gui.skinshift.wheel.empty": "No skins found in skinshift/skins. Add a 64x64 PNG and try again.",
+  "gui.skinshift.wheel.original": "Original skin",
+  "gui.skinshift.wheel.original_short": "orig.",
+  "gui.skinshift.wheel.hint": "Scroll or arrows to choose, release V to apply, Esc to cancel",
+
+  "gui.skinshift.config.title": "Skin Shift settings",
+  "gui.skinshift.config.style.vortex": "Vortex",
+  "gui.skinshift.config.style.spiral": "Spiral",
+  "gui.skinshift.config.style.explosion": "Explosion"
+}

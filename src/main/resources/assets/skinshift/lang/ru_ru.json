@@ -1,0 +1,16 @@
+{
+  "key.categories.skinshift": "Skin Shift",
+  "key.skinshift.wheel": "Открыть колесо скинов (зажать)",
+  "key.skinshift.settings": "Настройки Skin Shift",
+
+  "gui.skinshift.wheel.title": "Колесо скинов",
+  "gui.skinshift.wheel.empty": "В папке skinshift/skins нет скинов. Добавь PNG 64x64 и попробуй снова.",
+  "gui.skinshift.wheel.original": "Оригинальный скин",
+  "gui.skinshift.wheel.original_short": "ориг.",
+  "gui.skinshift.wheel.hint": "Колёсико или стрелки — выбор, отпусти V — применить, Esc — отмена",
+
+  "gui.skinshift.config.title": "Настройки Skin Shift",
+  "gui.skinshift.config.style.vortex": "Вихрь",
+  "gui.skinshift.config.style.spiral": "Спираль",
+  "gui.skinshift.config.style.explosion": "Взрыв"
+}
